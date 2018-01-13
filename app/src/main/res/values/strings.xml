@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="title_bio">Biodata Saya</string>
+    <string name="isi_bio2">
+        Nama saya Viqi Nurhaqiqi anak kedua dari dua bersaudara,
+        \nsekarang sedang menimba ilmu di Uin Sunan Gunung Djati jurusan Teknik Informatika.
+
+        \n\nMengenyam pendidikan sekolah dasar di SDN Pelita 2 lalu melanjutkan
+        ke SMP Plus Al-ghifari. Sejak kecil sudah menyukai seni khususnya pada bidang musik,
+        saat melanjutkan ke MAN 2 Kota Bandung mengikuti kegiatan ekstra kulikuler Lingkung Seni
+        MAN 2 Kota Bandung.
+
+        \n\nLorem ipsum dolor sit amet, consectetur
+        adipiscing elit. Aliquam porta lorem ut
+        interdum lacinia. Morbi lorem est,
+        gravida eget odio vel,venenatis semper ex.
+        Cras tempus neque in sapien rutrum, sed luctus orci varius.
+        Ut ac enim ac nibh convallis viverra quis vel dolor. Donec justo dolor,
+        tincidunt et molestie eget, ultrices nec lacus.
+        In ac nulla et odio tincidunt consequat.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Fusce feugiat consectetur erat sit amet malesuada.
+        In scelerisque ultrices ipsum non fringilla.
+        Nulla et sem ultrices, tincidunt nunc eget, varius massa.
+        Duis porta nibh quam, eu dignissim purus mattis sed.
+
+        \n\nNunc quis aliquet magna. Fusce leo libero, vehicula at mi ac, congue congue metus.
+        Sed vitae maximus enim. Integer consequat risus lorem, ac placerat nunc scelerisque id.
+        Nam pretium accumsan purus quis ullamcorper. In vitae tincidunt sem, nec tincidunt est.
+        Vestibulum id egestas velit. Aliquam efficitur orci nulla, sed accumsan lacus malesuada mattis.
+        Nunc venenatis auctor rutrum. In mattis risus ut massa convallis, nec tincidunt tellus vehicula.
+        Aenean scelerisque dictum dui. Nullam id dui id nibh euismod dictum a sit amet massa.
+
+    </string>
+    <string name="font_bio">monoscape</string>
+</resources>
